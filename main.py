@@ -46,7 +46,7 @@ def main():
 
             for projectile in shots:
                 if projectile.collide(item):
-                    item.kill()
+                    item.split()
                     projectile.kill()
                 
         
