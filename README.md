@@ -3,7 +3,8 @@
 This project is the second that I completed through Boot.dev. My custom additions to the game are as follows:
 
 - [X] Add a scoring system
-- [ ] Display current score in game
+- [X] Display current score in game
+- [ ] Add time based scoring
 - [ ] Implement multiple lives and respawning
 - [ ] Add an explosion effect for the asteroids
 - [ ] Add acceleration to the player movement
@@ -16,4 +17,5 @@ This project is the second that I completed through Boot.dev. My custom addition
 - [ ] Add a speed power-up
 - [ ] Add bombs that can be dropped
 - [ ] Add difficulty modes
+- [ ] Add time based difficulty
 - [ ] Add restart button
