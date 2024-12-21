@@ -18,4 +18,6 @@ This project is the second that I completed through Boot.dev. My custom addition
 - [ ] Add bombs that can be dropped
 - [ ] Add difficulty modes
 - [ ] Add time based difficulty
+- [ ] Return total time lasted in the round
+
 - [ ] Add restart button
