@@ -19,5 +19,6 @@ This project is the second that I completed through Boot.dev. My custom addition
 - [ ] Add difficulty modes
 - [ ] Add time based difficulty
 - [ ] Return total time lasted in the round
+- [ ] Add customizable colors
 
 - [ ] Add restart button
